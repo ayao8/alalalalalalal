@@ -7,15 +7,22 @@ export default function App() {
           <span className="font-semibold text-neutral-800">Al</span>s.
         </p>
         <hr />
-        <button className="group flex space-x-1 text-neutral-700 hover:text-neutral-900">
+        <a
+          href="https://soundcloud.com/alaz-sengul"
+          className="group flex space-x-1 text-neutral-700 hover:text-neutral-900"
+        >
           <p className="">
             <span className="font-semibold text-neutral-800">Al</span>az Sengul
           </p>
           <p className="transition duration-150 ease-out hover:ease-in group-hover:translate-x-0.5">
             →
           </p>
-        </button>
-        <a href="https://www.allyszhu.com/" target="_blank" className="group flex space-x-1 text-neutral-700 hover:text-neutral-900">
+        </a>
+        <a
+          href="https://www.youtube.com/watch?v=CtqDlcJtR2E"
+          target="_blank"
+          className="group flex space-x-1 text-neutral-700 hover:text-neutral-900"
+        >
           <p className="">
             <span className="font-semibold text-neutral-800">Al</span>ly Zhu
           </p>
@@ -39,14 +46,17 @@ export default function App() {
             →
           </p>
         </button>
-        <button className="group flex space-x-1 text-neutral-700 hover:text-neutral-900">
+        <a
+          href="https://www.youtube.com/@MrSwedishKnuget"
+          className="group flex space-x-1 text-neutral-700 hover:text-neutral-900"
+        >
           <p className="">
             <span className="font-semibold text-neutral-800">Al</span>an Yao
           </p>
           <p className="transition duration-150 ease-out hover:ease-in group-hover:translate-x-0.5">
             →
           </p>
-        </button>
+        </a>
       </div>
     </div>
   );
