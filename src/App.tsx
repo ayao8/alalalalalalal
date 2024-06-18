@@ -31,6 +31,22 @@ export default function App() {
             →
           </p>
         </button>
+        <button className="group flex space-x-1 text-neutral-700 hover:text-neutral-900">
+          <p className="">
+            <span className="font-semibold text-neutral-800">Al</span>ex Tsai
+          </p>
+          <p className="transition duration-150 ease-out hover:ease-in group-hover:translate-x-0.5">
+            →
+          </p>
+        </button>
+        <button className="group flex space-x-1 text-neutral-700 hover:text-neutral-900">
+          <p className="">
+            <span className="font-semibold text-neutral-800">Al</span>an Yao
+          </p>
+          <p className="transition duration-150 ease-out hover:ease-in group-hover:translate-x-0.5">
+            →
+          </p>
+        </button>
       </div>
     </div>
   );
