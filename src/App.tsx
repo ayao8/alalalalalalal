@@ -15,14 +15,14 @@ export default function App() {
             →
           </p>
         </button>
-        <button className="group flex space-x-1 text-neutral-700 hover:text-neutral-900">
+        <a href="https://www.allyszhu.com/" target="_blank" className="group flex space-x-1 text-neutral-700 hover:text-neutral-900">
           <p className="">
             <span className="font-semibold text-neutral-800">Al</span>ly Zhu
           </p>
           <p className="transition duration-150 ease-out hover:ease-in group-hover:translate-x-0.5">
             →
           </p>
-        </button>
+        </a>
         <button className="group flex space-x-1 text-neutral-700 hover:text-neutral-900">
           <p className="">
             <span className="font-semibold text-neutral-800">Al</span>ice Zhao
