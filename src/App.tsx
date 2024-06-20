@@ -19,7 +19,7 @@ export default function App() {
           </p>
         </a>
         <a
-          href="https://www.youtube.com/watch?v=CtqDlcJtR2E"
+          href="https://allyszhu.wixsite.com/allywaytalk"
           target="_blank"
           className="group flex space-x-1 text-neutral-700 hover:text-neutral-900"
         >
@@ -47,7 +47,7 @@ export default function App() {
           </p>
         </button>
         <a
-          href="https://www.youtube.com/@MrSwedishKnuget"
+          href="https://chromewebstore.google.com/detail/showerthoughts/ejfkmkpjcoaifaaplbffococjkhpclgb?hl=en"
           className="group flex space-x-1 text-neutral-700 hover:text-neutral-900"
         >
           <p className="">
