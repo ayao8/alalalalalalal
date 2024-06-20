@@ -19,7 +19,7 @@ export default function App() {
           </p>
         </a>
         <a
-          href="https://allyszhu.wixsite.com/allywaytalk"
+          href="https://www.youtube.com/watch?v=CtqDlcJtR2E"
           target="_blank"
           className="group flex space-x-1 text-neutral-700 hover:text-neutral-900"
         >
